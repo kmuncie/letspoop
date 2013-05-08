@@ -1,0 +1,85 @@
+[01-May-2013 14:04:42 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[01-May-2013 14:04:42 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[01-May-2013 14:04:42 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[01-May-2013 14:04:42 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[01-May-2013 14:04:42 UTC] PHP Warning:  Couldn't set response type to 404 because of output on line 401 of /home/eatpresc/public_html/letspoop/framework/control/Director.php in /home/eatpresc/public_html/letspoop/framework/control/HTTPResponse.php on line 235
+[01-May-2013 18:46:43 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[01-May-2013 18:46:43 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[01-May-2013 18:46:43 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[01-May-2013 18:46:43 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[01-May-2013 18:46:43 UTC] PHP Warning:  Couldn't set response type to 404 because of output on line 401 of /home/eatpresc/public_html/letspoop/framework/control/Director.php in /home/eatpresc/public_html/letspoop/framework/control/HTTPResponse.php on line 235
+[01-May-2013 18:46:44 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[01-May-2013 18:46:44 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[01-May-2013 18:46:44 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[01-May-2013 18:46:44 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[01-May-2013 18:46:44 UTC] PHP Warning:  Couldn't set response type to 404 because of output on line 401 of /home/eatpresc/public_html/letspoop/framework/control/Director.php in /home/eatpresc/public_html/letspoop/framework/control/HTTPResponse.php on line 235
+[01-May-2013 19:06:07 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[02-May-2013 06:20:59 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[02-May-2013 18:20:46 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[03-May-2013 03:40:06 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[03-May-2013 23:02:16 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[03-May-2013 23:02:16 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[03-May-2013 23:02:16 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[03-May-2013 23:02:16 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[03-May-2013 23:02:16 UTC] PHP Warning:  Couldn't set response type to 404 because of output on line 401 of /home/eatpresc/public_html/letspoop/framework/control/Director.php in /home/eatpresc/public_html/letspoop/framework/control/HTTPResponse.php on line 235
+[04-May-2013 04:16:37 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 38
+[04-May-2013 04:16:38 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 38
+[04-May-2013 04:26:18 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 14
+[04-May-2013 04:26:20 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 14
+[04-May-2013 04:31:27 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 15
+[04-May-2013 04:31:28 UTC] PHP Parse error:  syntax error, unexpected '}' in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 15
+[04-May-2013 04:34:20 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 40
+[04-May-2013 04:34:22 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 40
+[04-May-2013 04:35:03 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 50
+[04-May-2013 04:35:04 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 50
+[04-May-2013 04:35:48 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 50
+[04-May-2013 04:35:49 UTC] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting T_FUNCTION in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 50
+[04-May-2013 04:36:07 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 50
+[04-May-2013 04:36:09 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 50
+[04-May-2013 04:36:09 UTC] PHP Parse error:  syntax error, unexpected '(', expecting ',' or ';' in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 50
+[04-May-2013 04:36:42 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 36
+[04-May-2013 04:36:43 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 36
+[04-May-2013 04:55:11 UTC] PHP Warning:  None of these templates can be found in theme 'simple': ranimg.ss in /home/eatpresc/public_html/letspoop/framework/view/SSViewer.php on line 670
+[04-May-2013 04:55:11 UTC] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: Filename cannot be empty in /home/eatpresc/public_html/letspoop/framework/view/SSViewer.php on line 886
+[04-May-2013 04:55:13 UTC] PHP Warning:  None of these templates can be found in theme 'simple': ranimg.ss in /home/eatpresc/public_html/letspoop/framework/view/SSViewer.php on line 670
+[04-May-2013 04:55:15 UTC] PHP Warning:  None of these templates can be found in theme 'simple': ranimg.ss in /home/eatpresc/public_html/letspoop/framework/view/SSViewer.php on line 670
+[04-May-2013 04:57:47 UTC] PHP Warning:  None of these templates can be found in theme 'simple': ranimg.ss in /home/eatpresc/public_html/letspoop/framework/view/SSViewer.php on line 670
+[04-May-2013 04:57:49 UTC] PHP Warning:  None of these templates can be found in theme 'simple': ranimg.ss in /home/eatpresc/public_html/letspoop/framework/view/SSViewer.php on line 670
+[04-May-2013 05:03:11 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 72
+[04-May-2013 05:03:12 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 72
+[04-May-2013 05:04:38 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 73
+[04-May-2013 05:04:39 UTC] PHP Parse error:  syntax error, unexpected T_PUBLIC in /home/eatpresc/public_html/letspoop/mysite/code/Page.php on line 73
+[04-May-2013 06:25:07 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[04-May-2013 06:25:07 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[04-May-2013 06:25:07 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[04-May-2013 06:25:07 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[04-May-2013 06:25:07 UTC] PHP Warning:  Couldn't set response type to 404 because of output on line 401 of /home/eatpresc/public_html/letspoop/framework/control/Director.php in /home/eatpresc/public_html/letspoop/framework/control/HTTPResponse.php on line 235
+[04-May-2013 13:58:24 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[04-May-2013 16:38:26 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[04-May-2013 16:38:26 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[04-May-2013 16:38:26 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[04-May-2013 16:38:26 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[04-May-2013 16:38:26 UTC] PHP Warning:  Couldn't set response type to 404 because of output on line 401 of /home/eatpresc/public_html/letspoop/framework/control/Director.php in /home/eatpresc/public_html/letspoop/framework/control/HTTPResponse.php on line 235
+[06-May-2013 02:28:44 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 02:28:44 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 02:28:44 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 02:28:44 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 02:28:44 UTC] PHP Warning:  Couldn't set response type to 404 because of output on line 401 of /home/eatpresc/public_html/letspoop/framework/control/Director.php in /home/eatpresc/public_html/letspoop/framework/control/HTTPResponse.php on line 235
+[06-May-2013 03:59:40 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 03:59:40 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 03:59:40 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 03:59:40 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 03:59:40 UTC] PHP Warning:  Couldn't set response type to 404 because of output on line 401 of /home/eatpresc/public_html/letspoop/framework/control/Director.php in /home/eatpresc/public_html/letspoop/framework/control/HTTPResponse.php on line 235
+[06-May-2013 03:59:42 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 03:59:42 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 03:59:42 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 03:59:42 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 03:59:42 UTC] PHP Warning:  Couldn't set response type to 404 because of output on line 401 of /home/eatpresc/public_html/letspoop/framework/control/Director.php in /home/eatpresc/public_html/letspoop/framework/control/HTTPResponse.php on line 235
+[06-May-2013 21:26:48 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 21:26:50 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 21:26:50 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 21:26:50 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[06-May-2013 21:26:50 UTC] PHP Warning:  Couldn't set response type to 404 because of output on line 401 of /home/eatpresc/public_html/letspoop/framework/control/Director.php in /home/eatpresc/public_html/letspoop/framework/control/HTTPResponse.php on line 235
+[06-May-2013 22:51:23 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[07-May-2013 09:27:30 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
+[07-May-2013 20:55:46 UTC] PHP Warning:  Director::protocolAndHost() lacks sufficient information - HTTP_HOST not set. in /home/eatpresc/public_html/letspoop/framework/control/Director.php on line 401
