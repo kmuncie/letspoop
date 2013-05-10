@@ -39,7 +39,8 @@ Change it, enhance it and most importantly enjoy it!
 
 <% require javascript('framework/thirdparty/jquery/jquery.js') %>
 <%-- Please move: Theme javascript (below) should be moved to mysite/code/page.php  --%>
-<script type="text/javascript" src="{$ThemeDir}/javascript/script.js"></script>
+<script type="text/javascript" src="mysite/code/script.js"></script>
+
 
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
