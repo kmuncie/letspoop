@@ -1,5 +1,4 @@
 <?php
-Director::set_environment_type("dev");
 
 /**
  * Framework configuration file

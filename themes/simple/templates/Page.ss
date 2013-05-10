@@ -36,12 +36,6 @@ Change it, enhance it and most importantly enjoy it!
 	</div>
 </div>
 <% include Footer %>
-
-<% require javascript('framework/thirdparty/jquery/jquery.js') %>
-<%-- Please move: Theme javascript (below) should be moved to mysite/code/page.php  --%>
-<script type="text/javascript" src="mysite/code/script.js"></script>
-
-
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
 var sc_project=8936923; 
@@ -53,12 +47,11 @@ document.write("<sc"+"ript type='text/javascript' src='" +
 scJsHost+
 "statcounter.com/counter/counter.js'></"+"script>");
 </script>
-<noscript><div class="statcounter"><a title="website
-statistics" href="http://statcounter.com/"
-target="_blank"><img class="statcounter"
-src="http://c.statcounter.com/8936923/0/e3ed9fda/1/"
-alt="website statistics"></a></div></noscript>
 <!-- End of StatCounter Code for Default Guide -->
+
+<% require javascript('framework/thirdparty/jquery/jquery.min.js') %>
+<%-- Please move: Theme javascript (below) should be moved to mysite/code/page.php  --%>
+<script type="text/javascript" src="{$ThemeDir}/javascript/script.js"></script>
 
 </body>
 </html>
