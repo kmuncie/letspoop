@@ -11,16 +11,22 @@ class Page extends SiteTree {
 }
 class Page_Controller extends ContentController {
 
+public function root() {
+		$path = $_SERVER['DOCUMENT_ROOT'];
+		return $path;
+}
+
+
 public function GetRandomImg() {
 	
 	#$images = array("Cat1", "Cat2", "Cat3");
-	$imagesDir = 'assets/Uploads/cats/';
+	$imagesDir = '/home/eatpresc/public_html/letspoop/assets/Uploads/cats/';
 	$images = glob($imagesDir . '*.{jpg,jpeg,png,gif}', GLOB_BRACE);
 
 		$TotalCats = count($images);
 		$Winner = rand(0, $TotalCats - 1);
 
-		return $images[$Winner];
+		return substr($images[$Winner], 36);
 
 }
 
