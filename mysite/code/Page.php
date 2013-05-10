@@ -11,11 +11,6 @@ class Page extends SiteTree {
 }
 class Page_Controller extends ContentController {
 
-public function root() {
-		$path = $_SERVER['DOCUMENT_ROOT'];
-		return $path;
-}
-
 
 public function GetRandomImg() {
 	
