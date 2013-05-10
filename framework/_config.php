@@ -1,4 +1,5 @@
 <?php
+Director::set_environment_type("dev");
 
 /**
  * Framework configuration file
@@ -61,3 +62,4 @@ Deprecation::notification_version('3.0.0');
 
 // TODO Remove once new ManifestBuilder with submodule support is in place
 require_once('admin/_config.php');
+
