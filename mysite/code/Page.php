@@ -11,12 +11,9 @@ class Page extends SiteTree {
 }
 class Page_Controller extends ContentController {
 
-
-
 public function GetRandomImg() {
 	
 	#$images = array("Cat1", "Cat2", "Cat3");
-
 	$imagesDir = 'assets/Uploads/cats/';
 	$images = glob($imagesDir . '*.{jpg,jpeg,png,gif}', GLOB_BRACE);
 
@@ -26,9 +23,6 @@ public function GetRandomImg() {
 		return $images[$Winner];
 
 }
-
-
-
 
 
 	/**
