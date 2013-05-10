@@ -1,6 +1,5 @@
 <div class="content-container unit size4of5 lastUnit">
 	<article>
-		<h1>Cats</h1>
-		<div class="content"><img src="$GetRandomImg" alt="" /></div>
+		<div class="content"><img src="$Random" alt="Hillarious photos and gifs of random funny things!" /></div>
 	</article>
 </div>

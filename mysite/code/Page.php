@@ -12,9 +12,19 @@ class Page extends SiteTree {
 class Page_Controller extends ContentController {
 
 
-public function GetRandomImg() {
-	
-	#$images = array("Cat1", "Cat2", "Cat3");
+public function Random() {
+$host = $_SERVER['SERVER_NAME'] . $_SERVER['REQUEST_URI'];
+if($host == 'letspoop.com/gifs/') 
+{
+	$imagesDir = '/home/eatpresc/public_html/letspoop/assets/Uploads/gifs/';
+	$images = glob($imagesDir . '*.{jpg,jpeg,png,gif}', GLOB_BRACE);
+
+		$TotalCats = count($images);
+		$Winner = rand(0, $TotalCats - 1);
+
+		return substr($images[$Winner], 36);}
+else
+{
 	$imagesDir = '/home/eatpresc/public_html/letspoop/assets/Uploads/cats/';
 	$images = glob($imagesDir . '*.{jpg,jpeg,png,gif}', GLOB_BRACE);
 
@@ -22,8 +32,34 @@ public function GetRandomImg() {
 		$Winner = rand(0, $TotalCats - 1);
 
 		return substr($images[$Winner], 36);
-
 }
+}
+
+// public function RandomCat() {
+	
+// 	#$images = array("Cat1", "Cat2", "Cat3");
+// 	$imagesDir = '/home/eatpresc/public_html/letspoop/assets/Uploads/cats/';
+// 	$images = glob($imagesDir . '*.{jpg,jpeg,png,gif}', GLOB_BRACE);
+
+// 		$TotalCats = count($images);
+// 		$Winner = rand(0, $TotalCats - 1);
+
+// 		return substr($images[$Winner], 36);
+
+// }
+
+// public function RandomGif() {
+	
+// 	#$images = array("Cat1", "Cat2", "Cat3");
+// 	$imagesDir = '/home/eatpresc/public_html/letspoop/assets/Uploads/gifs/';
+// 	$images = glob($imagesDir . '*.{jpg,jpeg,png,gif}', GLOB_BRACE);
+
+// 		$TotalCats = count($images);
+// 		$Winner = rand(0, $TotalCats - 1);
+
+// 		return substr($images[$Winner], 36);
+
+// }
 
 
 	/**
